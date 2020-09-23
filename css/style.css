@@ -1,3 +1,7 @@
+*{
+  outline: none!important
+}
+
 html{
 }
 
@@ -12,7 +16,9 @@ a:hover{
 
 body{
   font-family: tahoma;
-  text-align: center
+  text-align: center;
+  padding: 0;
+  margin: 0;
 }
 
 nav{
